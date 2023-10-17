@@ -3,11 +3,11 @@
 <img src="https://media.giphy.com/media/htSeueZxZ2RkBPrIe1/giphy.gif" width=320 align="center" radius-border=20></p>             
 
 #  Sobre mim:
-No inicio de minha vida academica cursava Engenharia Quimica pela Universidade Federal do Rio Grande do Sul, porém após desenvolver uma paixão por programação, fiz a troca nterna de curso para Engenharia da Computação.
+No inicio de minha vida academica cursava Engenharia Quimica pela Universidade Federal do Rio Grande do Sul, porém após desenvolver uma paixão por programação, fiz a troca interna de curso para Engenharia da Computação.
 <br> <br>
 Como estudante de Engenharia da Computação na UFRGS, aperfeçoei minhas habilidades de pensamento lógico e eficiente através de atividades diversas realizadas por professores excelentes. Foram promovidos ambientes para desenvolver interações em grupo tanto quanto raciocinio indidual.
 <br> <br>
-Como sempre fui uma pessoa muito curiosa procurei ampliar meu conhecimento com aspectos que não fazem parte do curriculo de meu curso. Como, por exemplo, desenvolvimento web, que realizei mini-cursos na plataforma freeCodeCamp desenvolvendo habilidades em HTML5, CSS3 e JavaScrit, ainda posteriormente estudo do framework Flask por conta própria, que gerou um sistema utlizado na cadeira de Engenharia de Software.
+Sempre fui uma pessoa muito curiosa procurei ampliar meu conhecimento com aspectos que não fazem parte do curriculo de meu curso. Por exemplo desenvolvimento web, que realizei mini-cursos na plataforma freeCodeCamp desenvolvendo habilidades em HTML5, CSS3 e JavaScrit, ainda posteriormente estudo do framework Flask por conta própria, para integração de Python em páginas construidas com HTML/CSS que gerou um sistema utlizado na cadeira de Engenharia de Software.
 #
 <br> <br>
 
@@ -25,5 +25,7 @@ Como sempre fui uma pessoa muito curiosa procurei ampliar meu conhecimento com a
 <br>
 
 # Contatos:
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-piacini-65826a216/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 #
 <br> <br>
